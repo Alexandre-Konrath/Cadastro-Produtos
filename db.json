@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Mouse LogiTec",
+      "price": 120
+    },
+    {
+      "id": "2",
+      "name": "Monitor AOC",
+      "price": 400
+    },
+    {
+      "id": "3",
+      "name": "Monitor Corcer",
+      "price": 250
+    },
+    {
+      "id": "4",
+      "name": "Pc Gamer",
+      "price": 8000
+    },
+    {
+      "id": "5",
+      "name": "Headset HedDragon",
+      "price": 200
+    },
+    {
+      "id": "6",
+      "name": "Teclado HedDragon",
+      "price": 120
+    },
+    {
+      "id": "7",
+      "name": "Cadeira Gamer Netenho",
+      "price": 1100
+    }
+  ]
+}
